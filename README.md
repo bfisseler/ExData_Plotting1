@@ -18,15 +18,15 @@ After that, a png is opened as a graphic device and the data is plotted. Each sc
 
 ### Plot 2
 
-![plot produced by plot2.R](plot3.png) 
+![plot produced by plot2.R](plot2.png) 
 
 
 ### Plot 3
 
-![plot produced by plot3.R](plot4.png) 
+![plot produced by plot3.R](plot3.png) 
 
 
 ### Plot 4
 
-![plot produced by plot4.R](plot5.png) 
+![plot produced by plot4.R](plot4.png) 
 
